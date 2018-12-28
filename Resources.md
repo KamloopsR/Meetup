@@ -34,4 +34,10 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 
  ## General resources and tips
  - The [Twitter hashtag #rstats](https://twitter.com/hashtag/rstats) is a friendly place to find stuff
- - Twitter home of the [#R4DS online learning community](https://twitter.com/R4DScommunity) inspired by the R for Data Science text
+ - [R for Data Science online learning community](https://github.com/rfordatascience) inspired by the R for Data Science text
+   - includes answer keys to the text
+   - The [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday): "Every week we post a raw dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. The goal of Tidy Tuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater RStats community! As such we encourage everyone of all skills to participate!"
+
+## Git and GitHub
+- [Getting started with GitHub](https://guides.github.com/activities/hello-world/), by GitHub
+- [Happy Git and GitHub for the useR](http://happygitwithr.com/), by Jenny Bryan, STAT 545 TAs, Jim Hester
