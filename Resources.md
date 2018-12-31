@@ -37,6 +37,15 @@ Here we aim to list resources that at least one of us has tried or has a specifi
  - [R for Data Science online learning community](https://github.com/rfordatascience) inspired by the R for Data Science text
    - includes answer keys to the text
    - The [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday): "Every week we post a raw dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. The goal of Tidy Tuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater RStats community! As such we encourage everyone of all skills to participate!"
+   
+## R Tutorials
+- [Predictive Analytics 1](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1) - Predictive analytics using 4 different linear regression models
+- [Predictive Analytics 2](https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/) - Predictive modeling using Linear Regression, Decision Tree, and Random Forest Plots
+- [Text Mining 1](https://www.springboard.com/blog/text-mining-in-r/) - Using R libraries to implement common text mining techniques
+- [Sentiment Analysis 1](https://www.kaggle.com/rtatman/tutorial-sentiment-analysis-in-r) - Analyzes the sentiment of the state of the union address from 1989 to 2017
+- [Sentiment Analysis 2](https://uc-r.github.io/sentiment_analysis) - Analyzes the sentiment of the Harry Potter series
+- [Web Scraping 1](https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/) - Web scraping IMDB.com movie reviews using the rvest package
+- [Web Scrapting 2](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest) - Web scraping Trust Pilot reviews using the rvest package
 
 ## Git and GitHub
 - [Getting started with GitHub](https://guides.github.com/activities/hello-world/), by GitHub
