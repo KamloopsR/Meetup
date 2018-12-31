@@ -10,7 +10,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 - [Text Analysis](#text-analysis)
 - [Predictive Analytics](#predictive-analytics)
 - [Web Scraping](#web-scraping)
-- [Text Analysis](#git-and-github)
+- [Git and GitHub](#git-and-github)
 
 
 
