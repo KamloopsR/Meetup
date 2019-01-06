@@ -49,3 +49,5 @@ law enforcement, provide escorts, or otherwise assist those experiencing
 harassment to feel safe for the duration of the event. We value your attendance.
 We expect participants to follow these rules at all Kamloops R Meetup related
 event venues.
+
+> _Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative_
