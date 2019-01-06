@@ -9,6 +9,6 @@ Communications will take place in the #r-meetup channel of the [Built in Kamloop
 - the door will be locked; someone will come let people in at 5:20
 
 ## Week 1. Thursday, January 10
-In the first session we'll each introduce ourselves around the table, review our code of conduct, take time to make sure everyone has their environment set up, go through some simple data plotting, and make a plan for week 2.
+In the first session we'll each introduce ourselves around the table, review our code of conduct, take time to make sure everyone has their environment set up, read and explore a dataset, and make a plan for week 2.
 
 If possible, please have R and RStudio set up before you arrive. See [Installing R and setting up your environment](https://github.com/KamloopsR/Meetup/blob/master/Resources.md#installing-r-and-setting-up-your-environment) in the page of [resources](https://github.com/KamloopsR/Meetup/blob/master/Resources.md) we've put together.
