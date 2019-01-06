@@ -6,7 +6,7 @@ Communications will take place in the #r-meetup channel of the [Built in Kamloop
 ## Meetup details
 - weekly Thursdays 5:30pm for 1.5 to 2 hours starting January 10th, 2019
 - at the [Kamloops Innovation](https://kamloopsinnovation.ca/contact/) co-working table, 348 Tranquille Road
-- the door will be locked; someone will 
+- the door will be locked; someone will come let people in at 5:20
 
 ## Week 1. Thursday, January 10
 In the first session we'll each introduce ourselves around the table, take time to make sure everyone has their environment set up, go through some simple data plotting, and make a plan for week 2.
