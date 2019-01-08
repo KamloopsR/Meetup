@@ -54,6 +54,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 ## Web Scraping
 - [Web Scraping 1](https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/) - Web scraping IMDB.com movie reviews using the rvest package
 - [Web Scrapting 2](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest) - Web scraping Trust Pilot reviews using the rvest package
+- Manage your webscraping with the {polite} #rstats pkg ([TIL via twitter](https://twitter.com/nacnudus/status/1082680736786931713))
 
 ## Git and GitHub
 - [Getting started with GitHub](https://guides.github.com/activities/hello-world/), by GitHub
