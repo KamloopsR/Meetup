@@ -4,7 +4,7 @@ This repository is the home for all resources for the Kamloops R Meetup group, a
 Communications will take place in the #r-meetup channel of the [Built in Kamloops Slack](https://builtinkamloops-slackin.now.sh/) workspace, which is free for anyone to join. ([How to Slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members))
 
 ## Meetup details
-- weekly Thursdays 5:30pm for 1.5 to 2 hours starting January 10th, 2019
+- weekly Thursdays 6pm for 1.5 to 2 hours starting January 10th, 2019
 - at the [Kamloops Innovation](https://kamloopsinnovation.ca/contact/) co-working table, 348 Tranquille Road
 - the door will be open for you
 
