@@ -23,10 +23,6 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 [RYouWithMe](https://rladiessydney.org/ryouwithme)
  - free series of online learning resources for using R, oriented towards beginners. Aims to provide a solid foundation of R skills using the "tidyverse" approach
  - very practical and easy to follow (Stef)
-
-[Introduction to R by DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
- - free interactive intro to "Base R"
- - straightforward intro to variables, vectors, matrices, factors, lists and data frames, though after completion I didn't know where to start to dig into my own data (Stef)
  
 ## General resources and tips
  - The [Twitter hashtag #rstats](https://twitter.com/hashtag/rstats) is a friendly place to find stuff
