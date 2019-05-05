@@ -54,4 +54,8 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 
 ## Git and GitHub
 - [Getting started with GitHub](https://guides.github.com/activities/hello-world/), by GitHub
-- [Happy Git and GitHub for the useR](http://happygitwithr.com/), by Jenny Bryan, STAT 545 TAs, Jim Hester
+- [Happy Git and GitHub for the useR](http://happygitwithr.com/), by Jenny Bryan, STAT 545 TAs, Jim 
+
+## Dashboarding
+
+- [Shiny Tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/)
