@@ -58,4 +58,4 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 
 ## Dashboarding
 
-- [Shiny Tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - Beginner tutorial for people looking to build a dashboarding tool using shiny.
+- [Shiny Tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - Beginner tutorial for people looking to build a dashboarding tool using shiny. (Kasey used this tutorial)
