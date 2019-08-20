@@ -57,7 +57,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 ## Git and GitHub
 - [Getting started with GitHub](https://guides.github.com/activities/hello-world/), by GitHub
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/), by Jenny Bryan, STAT 545 TAs, Jim Hester
-- [learngitbranching.js.org](learngitbranching.js.org), recommended by Garrick Aden-Buie: "by far my favorite resource for learning and practicing git" 
+- [learngitbranching.js.org], recommended by Garrick Aden-Buie: "by far my favorite resource for learning and practicing git" 
 
 ## Dashboarding
 
