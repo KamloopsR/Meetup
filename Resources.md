@@ -11,6 +11,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 - [Predictive Analytics](#predictive-analytics)
 - [Web Scraping](#web-scraping)
 - [Git and GitHub](#git-and-github)
+- [Dashboarding](#dashboarding)
 
 
 
@@ -23,7 +24,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 [RYouWithMe](https://rladiessydney.org/ryouwithme)
  - free series of online learning resources for using R, oriented towards beginners. Aims to provide a solid foundation of R skills using the "tidyverse" approach
  - very practical and easy to follow (Stef)
- 
+
 ## General resources and tips
  - The [Twitter hashtag #rstats](https://twitter.com/hashtag/rstats) is a friendly place to find stuff
  - [R for Data Science online learning community](https://github.com/rfordatascience) inspired by the R for Data Science text
@@ -32,7 +33,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 - [rstudio.cloud primers](https://rstudio.cloud/learn/primers) - they basically follow R 4 Data Science text with interactive code exercises, using the RStudio IDE in your web browser (free) (h/t Alison Hill)
 
 ## Online Textbooks
-- [R for Data Science](https://r4ds.had.co.nz/)by Garrett Grolemund and Hadley Wickham "introduces the key tools for doing data science with R"
+- [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham "introduces the key tools for doing data science with R"
 - [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham "helps you master R as a programming language, teaching you what makes R tick"
 - [R packages](http://r-pkgs.had.co.nz/) "teaches good software engineering practices for R, using packages for bundling, documenting, and testing your code"
 
@@ -41,7 +42,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 - [Text Mining Tutorial](https://www.springboard.com/blog/text-mining-in-r/) - Using R libraries to implement common text mining techniques
 - [Sentiment Analysis Tutorial 1](https://www.kaggle.com/rtatman/tutorial-sentiment-analysis-in-r) - Analyzes the sentiment of the state of the union address from 1989 to 2017
 - [Sentiment Analysis Tutorial 2](https://uc-r.github.io/sentiment_analysis) - Analyzes the sentiment of the Harry Potter series
-   
+
 ## Predictive Analytics
 - [Regression Modeling Tutorial](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1) - Predictive analytics using 4 different linear regression models
 - [Predictive Analytic Models Tutorial](https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/) - Predictive modeling using Linear Regression, Decision Tree, and Random Forest Plots
@@ -55,8 +56,9 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 
 ## Git and GitHub
 - [Getting started with GitHub](https://guides.github.com/activities/hello-world/), by GitHub
-- [Happy Git and GitHub for the useR](http://happygitwithr.com/), by Jenny Bryan, STAT 545 TAs, Jim 
+- [Happy Git and GitHub for the useR](http://happygitwithr.com/), by Jenny Bryan, STAT 545 TAs, Jim Hester
+- [learngitbranching.js.org](), recommended by Garrick Aden-Buie: "by far my favorite resource for learning and practicing git" 
 
 ## Dashboarding
 
-- [Shiny Tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - Beginner tutorial for people looking to build a dashboarding tool using shiny. (Kasey used this tutorial)
+- [Shiny Tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - Beginner tutorial for people looking to build a dashboarding tool using shiny. (Kasey and Joel used this tutorial)
