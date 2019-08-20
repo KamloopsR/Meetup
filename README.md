@@ -6,7 +6,7 @@ Our co-learning adventures started January 10th, 2019 and we've been meeting wee
 Communications take place in the #r-meetup channel of the [Built in Kamloops Slack](https://builtinkamloops-slackin.now.sh/) workspace, which is free for anyone to join. ([How to Slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members))
 
 ## Meetup details
-- weekly on Wednesdays 6 - 8 pm, August 14, 21, 28, 2019
+- weekly on Wednesdays 6 - 8 pm, August 14, 21, 28, 2019; we keep adding more dates
 - at the [Kamloops Innovation](https://kamloopsinnovation.ca/contact/) co-working table, 348 Tranquille Road
 - the door will (should) be open for you
 
