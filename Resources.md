@@ -58,7 +58,7 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 - [Getting started with GitHub](https://guides.github.com/activities/hello-world/), by GitHub
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/), by Jenny Bryan, STAT 545 TAs, Jim Hester
 - [git exercises: navigate a repository](https://jvns.ca/blog/2019/08/30/git-exercises--navigate-a-repository/), by Julia Evans
-  - learn by navigating the repository for the Ruby programming language; it’s just about getting comfortable with looking at how files in a repository change over time (Stef will try this one)
+  - learn by navigating the repository for the Ruby programming language; it’s just about getting comfortable with looking at how files in a repository change over time (Stef tried this and gave up - felt pretty advanced)
 - [git branching](https://seankross.com/the-unix-workbench/git-and-github.html#branching), in The Unix Workbench, by the awesome Sean Kross (Stef will try this one)  
 - [learngitbranching.js.org], recommended by Garrick Aden-Buie: "by far my favorite resource for learning and practicing git" 
 
