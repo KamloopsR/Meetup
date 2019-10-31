@@ -6,9 +6,9 @@ Our co-learning adventures started January 10th, 2019 and we've been meeting wee
 Communications take place in the #r-meetup channel of the [Built in Kamloops Slack](https://builtinkamloops-slackin.now.sh/) workspace, which is free for anyone to join. ([How to Slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members))
 
 ## Meetup details
-- weekly on Wednesdays 6 - 8 pm, August 14, 21, 28, 2019; we keep adding more dates
+- weekly on Wednesdays 6 - 8 pm
 - at the [Kamloops Innovation](https://kamloopsinnovation.ca/contact/) co-working table, 348 Tranquille Road
-- the door will (should) be open for you
+- the door locks at 4:30pm. Join the Slack #r-meetup channel for notices on who will attend and open the door for you
 
 ## Resources
  Have a look at the [resources list](Resources.md) we curate, including installing R and setting up your environment, getting started with git and GitHub, text analysis, dashboarding etc.
