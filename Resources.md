@@ -24,14 +24,15 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 [RYouWithMe](https://rladiessydney.org/ryouwithme)
  - free series of online learning resources for using R, oriented towards beginners. Aims to provide a solid foundation of R skills using the "tidyverse" approach
  - very practical and easy to follow (Stef)
+ 
+[Learn R on Codecademy](https://www.codecademy.com/learn/learn-r) is a great beginner's introduction course to the syntax of R and a few basic statistical methods using R. (recommended by Monika) 
 
 ## General resources and tips
  - The [Twitter hashtag #rstats](https://twitter.com/hashtag/rstats) is a friendly place to find stuff
  - [R for Data Science online learning community](https://github.com/rfordatascience) inspired by the R for Data Science text
    - includes answer keys to the text
-   - The [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday): "Every week we post a raw dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. The goal of Tidy Tuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater RStats community! As such we encourage everyone of all skills to participate!"
+   - The [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday): "Every week we post a raw dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. The goal of Tidy Tuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater RStats community! As such we encourage everyone of all skills to participate!" (Monika did the Roman Emperors dataset)
 - [rstudio.cloud primers](https://rstudio.cloud/learn/primers) - they basically follow R 4 Data Science text with interactive code exercises, using the RStudio IDE in your web browser (free) (h/t Alison Hill)
-- [Learn R on Codecademy](https://www.codecademy.com/learn/learn-r) is a great beginner's introduction course to the syntax of R and a few basic statistical methods using R.
 
 ## Online Textbooks
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham "introduces the key tools for doing data science with R"
