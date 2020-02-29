@@ -25,6 +25,9 @@ Here we aim to list resources that at least one of us has tried or has a specifi
  - free series of online learning resources for using R, oriented towards beginners. Aims to provide a solid foundation of R skills using the "tidyverse" approach
  - very practical and easy to follow (Stef)
  
+ [An Irresponsibly Brief Introduction to the Tidyverse](https://seankross.com/2020/01/29/An-Irresponsibly-Brief-Introduction-to-the-Tidyverse.html), by Sean Kross
+ - This is short, easy to understand, and Sean Kross is awesome
+ 
 [Learn R on Codecademy](https://www.codecademy.com/learn/learn-r) is a great beginner's introduction course to the syntax of R and a few basic statistical methods using R. (recommended by Monika) 
 
 ## General resources and tips
