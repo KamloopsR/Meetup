@@ -70,3 +70,6 @@ Here we aim to list resources that at least one of us has tried or has a specifi
 ## Dashboarding
 
 - [Shiny Tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - Beginner tutorial for people looking to build a dashboarding tool using shiny. (Kasey and Joel used this tutorial)
+
+## Other stuff
+- [RStudio Cloud](https://www.youtube.com/playlist?list=PL9HYL-VRX0oSn7tBLDiSt4Vnyk3yB6ipA) playlist of short videos (1-3mins) that helps instructors & educators get up and running as quickly as possible. RStudio Cloud is a lightweight, cloud-based solution that allows anyone to do, share, teach and learn data science online.
